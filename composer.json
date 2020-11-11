@@ -1,8 +1,8 @@
 {
-    "name": "zyberspace/discovery-shell",
+    "name": "sallsabil/discovery-shell",
     "description": "developer shell to help discover a class or library",
     "type": "library",
-    "homepage": "https://github.com/zyberspace/php-discovery-shell",
+    "homepage": "https://github.com/sallsabil/php-discovery-shell",
     "license": "MPL-2.0",
     "authors": [
         {
@@ -16,7 +16,7 @@
     },
     "autoload": {
         "psr-0": {
-            "Zyberspace\\": "lib/"
+            "Sallsabil\\": "lib/"
         }
     }
 }
